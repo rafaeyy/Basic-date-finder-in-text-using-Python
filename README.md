@@ -7,15 +7,14 @@ This program will find date format in a text.
 
 Date Formats includes:
 
-# Day/Month/Year
-# Month/Day/Year
-# Year/Month/Day
-# Year/Day/Month
-
-# Day.Month.Year
-# Month.Day.Year
-# Year.Month.Day
-# Year.Day.Month
+1. Day/Month/Year
+2. Month/Day/Year
+3. Year/Month/Day
+4. Year/Day/Month
+5. Day.Month.Year
+6. Month.Day.Year
+7. Year.Month.Day
+8. Year.Day.Month
 
 Will update this program to perform Pyperclip functionality
 and make a unversal date format - Day/Month/Year
